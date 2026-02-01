@@ -20,11 +20,12 @@ por esto que ¡ proximamente este repositorio se actualizará con más contenido
 - **Cuaderno 02:** Tuplas
 - **Cuaderno 03:** Listas
 - **Cuaderno 04:** Conjuntos
-- **Cuaderno 05:** Condiciones
-- **Cuaderno 06:** Bucles
-- **Cuaderno 07:** Funciones
-- **Cuaderno 08:** Clases  
-- **Cuaderno 09:** Bono
+- **Cuaderno 05:** Condiciones  
+- **Cuaderno 05:** Diccionarios  
+- **Cuaderno 07:** Bucles
+- **Cuaderno 08:** Funciones
+- **Cuaderno 09:** Clases  
+- **Cuaderno 10:** Bono
  
 -------------------------------------   
 
